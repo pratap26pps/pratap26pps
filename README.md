@@ -3,8 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=pratap26pps&color=blue)
 
 ## 🚀 About Me
-- 🎓 B.Tech (ECE) at MDU Rohtak (6th Semester)
-- 💻 Full Stack Developer (React, Next.js, Express.js)
+- 🎓 B.Tech (ECE) at MDU Rohtak  
+- 💻 Full Stack Developer (React, Next.js, Express.js,Node.js)
 - 🏢 Internship Done at **The Ten And GridaNeoBharat Pvt Ltd**
 - 🌍 From Rohtas, Bihar
 
