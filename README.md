@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech (ECE) at MDU Rohtak (6th Semester)
 - 💻 Full Stack Developer (React, Next.js, Express.js)
-- 🏢 Currently interning at **The Ten**
+- 🏢 Internship Done at **The Ten And GridaNeoBharat Pvt Ltd**
 - 🌍 From Rohtas, Bihar
 
 ## 🛠 Tech Stack
